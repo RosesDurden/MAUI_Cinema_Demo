@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAUI_Cinema_Demo", "MAUI_Cinema_Demo\MAUI_Cinema_Demo.csproj", "{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A8340E-BB42-48BF-9F0E-168A6C3B5EDA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
