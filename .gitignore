@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MAUI/DesignTimeBuild
+/.vs/MAUI/FileContentIndex
+/.vs/MAUI/v17/TestStore/0
+/.vs/MAUI/v17/.futdcache.v2
+/.vs/MAUI/v17/.wsuo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
